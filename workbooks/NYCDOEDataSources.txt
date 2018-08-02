@@ -1,0 +1,89 @@
+#Annual Enrollment
+#Source: http://schools.nyc.gov/Accountability/data/default.htm
+AuditedRegister_20122016 = "http://schools.nyc.gov/NR/rdonlyres/46093164-D8AA-40DD-A400-8F80CEBC8DD5/0/DemographicSnapshot201112to201516Public_FINAL.xlsx"
+
+#Graduation Results (Grad and Dropout Rates) 2005-2016
+#Source: http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.htm
+GradResultsCitywide_20052016 = "http://schools.nyc.gov/documents/misc/2016%20Graduation_Rates_Public_Citywide.xlsx"
+GradResultsBorough_20052016 = "http://schools.nyc.gov/documents/misc/2016%20Graduation_Rates_Public_Borough.xlsx"
+GradResultsDistrict_20052016 = "http://schools.nyc.gov/documents/misc/2016%20Graduation_Rates_Public_District.xlsx"
+GradResultsSchool_20052016 = "http://schools.nyc.gov/documents/misc/2016%20Graduation_Rates_Public_School.xlsx"
+GradResultsCharter_20052016 = "http://schools.nyc.gov/NR/rdonlyres/98824366-72FE-426F-8367-87B00F01814E/0/2016Graduation_Rates_Public_CharterSchools.xlsx"
+
+#Test Results 2013-16
+#Source: http://schools.nyc.gov/Accountability/data/TestResults/ELAandMathTestResults
+ELACitywide_20132016 = "http://schools.nyc.gov/NR/rdonlyres/C7E210CA-F686-4805-BEA6-EDD91F76E58B/199997/CitywideELAResults20132016Public1.xlsx"
+ELABorough_20132016 = "http://schools.nyc.gov/NR/rdonlyres/C7E210CA-F686-4805-BEA6-EDD91F76E58B/199998/BoroughELAResults20132016Public1.xlsx"
+ELADistrict_20132016 = "http://schools.nyc.gov/NR/rdonlyres/06F00EDA-3204-4773-9E36-13D5AE812DBE/0/DistrictELAResults20132016Public.xlsx"
+ELASchool_20132016 = "http://schools.nyc.gov/NR/rdonlyres/32115263-FFBD-4674-95E8-477C9E698442/0/SchoolELAResults20132016Public.xlsx"
+
+MathCitywide_20132016 = "http://schools.nyc.gov/NR/rdonlyres/C7E210CA-F686-4805-BEA6-EDD91F76E58B/199999/CitywideMathResults20132016Public.xlsx"
+MathBorough_20132016 = "http://schools.nyc.gov/NR/rdonlyres/C7E210CA-F686-4805-BEA6-EDD91F76E58B/200000/BoroughMathResults20132016Public.xlsx"
+MathDistrict_20132016 = "http://schools.nyc.gov/NR/rdonlyres/1268C6F3-80FC-4CBF-8F3D-6721E54EE9DA/0/DistrictMathResults20132016Public.xlsx"
+MathSchool_20132016 = "http://schools.nyc.gov/documents/misc/School%20Math%20Results%202013-2016%20(Public).xlsx"
+
+ELAMathCharterSchool_20132016 = "http://schools.nyc.gov/NR/rdonlyres/C7E210CA-F686-4805-BEA6-EDD91F76E58B/200001/CharterSchoolResults20132016Public.xlsx"
+
+#Test Results 2006-12
+#Source: "http://schools.nyc.gov/Accountability/data/TestResults/
+#2006-2012+Math+and+ELA+New+York+States+Results.htm?mo=11&yr=2016"
+ELACitywide_20062012 = "http://schools.nyc.gov/NR/rdonlyres/CB5360AE-D4DA-45FC-A151-A20E62C28778/0/CitywideELAResults20062012Public.xlsx"
+ELABorough_20062012 = "http://schools.nyc.gov/NR/rdonlyres/B82F9971-6533-4355-B3F0-19219B74453F/0/BoroughELAResults20062012Public.xlsx"
+ELADistrict_20062012 = "http://schools.nyc.gov/NR/rdonlyres/D8B559C6-A588-44B6-AECE-1108BE52BE9F/0/DistrictELAResults20062012Public.xlsx"
+ELASchool_20062012 = "http://schools.nyc.gov/NR/rdonlyres/66E8CC55-51E7-4DE5-8C5C-08C588701A1E/0/SchoolELAResults20062012Public.xlsx"
+
+MathCitywide_20062012 = "http://schools.nyc.gov/NR/rdonlyres/7C17840D-BB62-41C9-919D-AACABAA92E04/0/CitywideMathResults20062012Public.xlsx"
+MathBorough_20062012 = "http://schools.nyc.gov/NR/rdonlyres/9EE3AC39-71D5-4619-9F99-A850842F68DE/0/BoroughMathResults20062012Public.xlsx"
+MathDistrict_20062012 = "http://schools.nyc.gov/NR/rdonlyres/3E439D63-A14E-4B6E-B019-B634A8915D71/0/DistrictMathResults20062012Public.xlsx"
+MathSchool_20062012 = "http://schools.nyc.gov/NR/rdonlyres/A77DF9C5-BD62-4171-9995-4EB41E7E4067/0/SchoolMathResults20062012Public.xlsx"
+
+#School Survey 2016
+#Source: http://schools.nyc.gov/Accountability/tools/survey/2016Survey
+SchoolSurveyResponseRate_2017 = "http://schools.nyc.gov/NR/rdonlyres/13A4ECFE-400B-42A0-9E24-42C9A23A0FF4/0/2017NYCSchoolSurveyResponseRateUpdate.xlsx"
+
+SchoolSurvey_2016 = "http://schools.nyc.gov/documents/misc/Public_Data_File_Final.xlsx"
+SchoolSurvey_2015 = "http://schools.nyc.gov/documents/misc/Public%20Data%20File.xlsx"
+SchoolSurvey_2014 = "http://schools.nyc.gov/documents/misc/2014%20Public%20Data%20File%20SUPPRESSED.xlsx"
+SchoolSurvey_2013 = "http://schools.nyc.gov/NR/rdonlyres/0AE3D537-A745-41B5-9080-AA6397D04F19/0/2013NYCSchoolSurveyPublicMasterfile.xlsx"
+SchoolSurvey_2012 = "http://schools.nyc.gov/NR/rdonlyres/A9998E0C-E809-4F3D-81EA-EC5DF1F5D810/0/2012_Survey_Masterfile__CS_final.xlsx"
+SchoolSurveyD75_2012 = "http://schools.nyc.gov/NR/rdonlyres/B424C430-F585-4C43-B854-550560470C7E/0/2012_Survey_Masterfile__D75_final.xlsx"
+SchoolSurvey_2011 = "http://schools.nyc.gov/NR/rdonlyres/11FE72CE-1313-4C82-88B1-C9FA53BE6842/0/2011datafilesonline.zip"
+SchoolSurvey_2010 = "http://schools.nyc.gov/NR/rdonlyres/4C258C57-05CC-4A69-8E99-C3EA4A5E61D9/0/2010SurveyData.zip"
+SchoolSurvey_2009 = "http://schools.nyc.gov/NR/rdonlyres/623678D2-94D6-45FC-B970-BF1DC1660940/0/2009SurveyData.zip"
+SchoolSurvey_2008 = "http://schools.nyc.gov/NR/rdonlyres/EB281589-6F2B-42E5-A0AD-13C8CE2E8CDD/0/2008excel.zip"
+SchoolSurveyD75_2008 = "http://schools.nyc.gov/NR/rdonlyres/146F83FD-E8D3-4C4C-A89F-594DDAD4CE26/0/2008ExcelD75.zip"
+SchoolSurvey_2007 = "http://schools.nyc.gov/NR/rdonlyres/3C9B6404-D3C3-49D7-8FA8-36AC191BC328/26549/surveyaccess_1011092.xls"
+
+#School Quality Reports 2016
+#Source: http://schools.nyc.gov/Accountability/tools/report/default.htm
+SQRPreK_2016 = "http://schools.nyc.gov/NR/rdonlyres/E546F5FE-8B02-46D9-8111-364909B59986/0/SQS_PK_2016_Final.xlsx"
+SQRElementary_2016 = "http://schools.nyc.gov/NR/rdonlyres/B3F6B2AC-DE2D-4F5E-8F62-A11EBF3090EC/0/2015_2016_EMS_SQR_Results_2016_11_15.xlsx"
+SQRHS_2016 = "http://schools.nyc.gov/NR/rdonlyres/32595FE4-15E0-4DFE-A4F4-2D9AD32ED6D1/0/2015_2016_HS_SQR_Results_2017_01_05.xlsx"
+SQRTransferHS_2016 = "http://schools.nyc.gov/NR/rdonlyres/2E919AAB-D033-45C4-8CDB-F0D3EF9FACD1/0/2015_2016_HST_SQR_Results_2016_11_16.xlsx"
+SQRD75_2016 = "http://schools.nyc.gov/NR/rdonlyres/25C17A3B-93B8-40FD-9F88-A4E7A81AA545/0/2015_2016_D75_SQR_Results_2016_11_16.xlsx"
+SQREarlyChildhood_2016 = "http://schools.nyc.gov/NR/rdonlyres/EB047F9D-E0B3-48EF-BB85-1C6B03844BFB/0/2015_2016_EC_SQR_Results_2016_11_16.xlsx"
+
+SQRElementary_2015 = "http://schools.nyc.gov/NR/rdonlyres/06F7DE89-AA46-4509-9A0C-600038728D14/0/2014_2015_EMS_SQR_Results_2016_04_08.xlsx"
+SQRHS_2015 = "http://schools.nyc.gov/NR/rdonlyres/19E79FA9-ED99-42BA-B89E-56CB931F2465/0/2014_2015_HS_SQR_Results_2016_04_08.xlsx"
+SQRTransferHS_2015 = "http://schools.nyc.gov/NR/rdonlyres/209EE26D-3DEE-49D1-BEB6-11198E1EBAD3/0/2014_2015_HST_SQR_Results_2016_06_06.xlsx"
+SQRD75_2015 = "http://schools.nyc.gov/NR/rdonlyres/DD306A68-87B9-4B66-A72F-F16DFF6AAE08/0/2014_2015_D75_SQR_Results_2016_06_06.xlsx"
+SQREarlyChildhood_2015 = "http://schools.nyc.gov/NR/rdonlyres/28E14792-056E-43F8-9782-A538A293788C/0/2014_2015_EC_SQR_Results_2015_06_16.xlsx"
+
+SQRAll_2014 = "http://schools.nyc.gov/NR/rdonlyres/79D56AA3-C28A-40B6-9CC5-871C7AF27FF0/0/2013_2014_All_Schools_SQR_Results_2015_01_20.xlsx"
+
+#Quality Review 2005-2016
+#Source: http://schools.nyc.gov/Accountability/tools/review/default.htm
+QR_20052016 = "http://schools.nyc.gov/NR/rdonlyres/782C5EFD-D762-4B76-A791-558E4798B687/0/20052016_QR_Ratings.xlsx"
+
+#Class Size
+#Source: http://schools.nyc.gov/AboutUs/schools/data/classsize/classsize.htm
+ClassSizeCitywide_2017 = "http://schools.nyc.gov/NR/rdonlyres/FFD66E01-D5A8-4701-AFBC-946E736961AC/0/February2017_Avg_ClassSize_City.xlsx"
+ClassSizeBorough_2017 = "http://schools.nyc.gov/NR/rdonlyres/B470DCE3-3A16-433E-93B1-B452C603CEA5/0/February2017_Avg_ClassSize_Borough.xlsx"
+ClassSizeDistrict_2017 = "http://schools.nyc.gov/NR/rdonlyres/1A24381C-6B5B-40BA-A4EE-191881125BB1/0/February2017_Avg_ClassSize_District.xlsx"
+ClassSizeSchool_2017 = "http://schools.nyc.gov/NR/rdonlyres/11A3268A-AA1B-4475-BA79-A9D52883DC08/0/February2017_Avg_ClassSize_School.xlsx"
+
+#School Budget
+
+
+#SED Report Cards
+#Source: https://data.nysed.gov/downloads.php
